@@ -1,1 +1,3 @@
-# BaiTap_JS_Buoi3
+# Bài tập JS buổi 2 - 3
+
+Trần Giang Đại Hoàng
